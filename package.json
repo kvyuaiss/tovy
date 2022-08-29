@@ -1,6 +1,6 @@
 {
   "name": "tovy",
-  "version": "0.7.71",
+  "version": "0.7.72",
   "scripts": {
     "serve": "vue-cli-service serve --host localhost",
     "build": "vue-cli-service build",
@@ -31,7 +31,7 @@
     "inquirer": "^7.3.3",
     "lodash": "^4.17.21",
     "minimist": "^1.2.6",
-    "mongoose": "^6.1.4",
+    "mongoose": "^6.4.6",
     "noblox": "^4.8.5",
     "noblox.js": "^4.13.1",
     "node-2fa": "^2.0.3",
